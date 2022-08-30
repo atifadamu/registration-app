@@ -1,9 +1,10 @@
 import React from 'react'
-import HeaderS from '../components/Header'
+import Header from '../components/Header'
+
 function Home() {
   return (
     <div>
-
+      <Header />
     </div>
   )
 }
